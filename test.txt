@@ -1,0 +1,4 @@
+hello
+this is minsung
+we are studying git
+have a nice day
